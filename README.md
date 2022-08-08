@@ -1,16 +1,21 @@
-# apifatch
+# Apifatch in flutter
 
 A new Flutter project.
+Here we are using -
+HTTP (You can find out this package on pub.dev)
+API Key (Chose according to your needs or you can find out any dummy API over internet for testing out)
+Flutter Framework (This is the most important framework to use my code and get access )
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This project can help the beginners for understanding the code easily and you can use it if you want 
+Just change the API key and customize it according to your needs 
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Connect with me if you need any help -
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instagram - @__vivek_raghav
+
+Best of luck Guys 
